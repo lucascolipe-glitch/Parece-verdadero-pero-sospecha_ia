@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="t">
+  <title id="t">Contrastar antes de aceptar</title>
+  <rect width="1280" height="720" fill="#14217f"/>
+  <circle cx="640" cy="360" r="115" fill="#6574ff"/>
+  <path d="M610 294 610 426 724 360Z" fill="white"/>
+  <text x="640" y="145" text-anchor="middle" font-family="Arial" font-size="56" font-weight="700" fill="white">CONTRASTAR ANTES DE ACEPTAR</text>
+  <text x="640" y="610" text-anchor="middle" font-family="Arial" font-size="30" fill="#dfe3ff">Una respuesta necesita evidencia, contexto y otras voces.</text>
+</svg>
